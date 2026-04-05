@@ -116,8 +116,8 @@ bash run.sh
   
   <br>
   
-  <p><strong>Contact:</strong> <a href="mailto:siryadav025@gmail.com">siryadav025@gmail.com</a></p>
-  <p><strong>Telegram:</strong> <a href="https://t.me/SirYadav">@SirYadav</a></p>
+  <p><strong>Contact:</strong> <a href="mailto:hodimond93@gmail.com">hodimond93@gmail.com</a></p>
+  <p><strong>Telegram:</strong> <a href="ROBINHOOD_SD">@SirYadav</a></p>
 
   <img src ="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge">
 </div>
