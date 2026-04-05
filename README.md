@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/rawansni/AdwanceSNI-2.0"><img src="https://img.shields.io/badge/GAURAV 2.1-blue?style=for-the-badge&logo=github" alt="AdwanceSNI"></a>
+  <a href="https://github.com/rawansni/AdwanceSNI-2.0"><img src="https://img.shields.io/badge/AdwanceSNI2.0-blue?style=for-the-badge&logo=github" alt="AdwanceSNI"></a>
   <br>
  GAURAV ROCK 
   <br>
