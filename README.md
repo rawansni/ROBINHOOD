@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/rawansni/AdwanceSNI-2.0"><img src="https://img.shields.io/badge/GAURAV 2.5-blue?style=for-the-badge&logo=github" alt="GAURAV"></a>
+  <a href="https://github.com/rawansni/ROBINHOOD"><img src="https://img.shields.io/badge/ROBINHOOD-blue?style=for-the-badge&logo=github" alt="ROBINHOOD"></a>
   <br>
  GAURAV ROCK 
   <br>
@@ -26,7 +26,7 @@
 
 ## 🚀 Overview
 
-**AdwanceSNI 2.0** is the enhanced evolution of the original AdwanceSNI framework. It integrates powerful prebuilt engines and advanced API-based subdomain discovery to provide a seamless Bug Bounty and Network Security experience.
+**ROBINHOOD 2.0** is the enhanced evolution of the original ROBINHOOD framework. It integrates powerful prebuilt engines and advanced API-based subdomain discovery to provide a seamless Bug Bounty and Network Security experience.
 
 ## ✨ Features
 
@@ -64,10 +64,10 @@ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install github.com/rawansni/flashscan-go@latest
 ```
 
-### 3. Install AdwanceSNI
+### 3. Install ROBINHOOD
 ```bash
-git clone https://github.com/rawansni/AdwanceSNI-2.0
-cd AdwanceSNI-2.0
+git clone https://github.com/rawansni/ROBINHOOD
+cd ROBINHOOD
 bash install.sh
 ```
 
@@ -83,7 +83,7 @@ adwance
 
 ### Manual Run
 ```bash
-cd AdwanceSNI-2.0
+cd ROBINHOOD
 bash run.sh
 ```
 
@@ -104,7 +104,7 @@ bash run.sh
         (Core Logic, Coding, Integration)
       </td>
       <td align="center">
-        <strong>SANKI</strong><br>
+        <strong>Sanki</strong><br>
         (Normal Scanner, Subdomain CMS API)
       </td>
       <td align="center">
@@ -117,19 +117,7 @@ bash run.sh
   <br>
   
   <p><strong>Contact:</strong> <a href="mailto: ROBINHOOD_SD">ROBINHOOD PAPA/a></p>
-  <p><strong>Telegram:</strong> <a href="https://t.me/ROBINHOOD_SD">@GAURAV</a></p>
-
-  <img src ="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge">
-</div>
-        (UI/UX Concepts)
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <p><strong>Contact:</strong> <a href="mailto:hodimond93@gmail.com">hodimond93@gmail.com</a></p>
-  <p><strong>Telegram:</strong> <a href="ROBINHOOD_SD">@GAURAV</a></p>
+  <p><strong>Telegram:</strong> <a href="https://t.me/ROBINHOOD_SD">@SirYadav</a></p>
 
   <img src ="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge">
 </div>

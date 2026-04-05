@@ -1,5 +1,5 @@
 #!/bin/bash
-# AdwanceSNI 2.0 - Simplified Launcher
+# ROBINHOOD- Simplified Launcher
 # This script is kept for backward compatibility
 # You can also run directly: python main.py
 
@@ -10,7 +10,7 @@ CYAN="\033[1;36m"
 RESET="\033[0m"
 
 echo -e "${BOLD}${CYAN}-------------------------------------------${RESET}"
-echo -e "${BOLD}${GREEN}      🚀 Starting AdwanceSNI 2.0 🚀          ${RESET}"
+echo -e "${BOLD}${GREEN}      🚀 Starting ROBINHOOD 🚀          ${RESET}"
 echo -e "${BOLD}${CYAN}-------------------------------------------${RESET}"
 
 # Detect python command

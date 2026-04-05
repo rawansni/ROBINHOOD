@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# AdwanceSNI 2.0.4Installer
+# papa COMEBACK 
 # (Termux, Linux, WSL)
 
 BOLD="\033[1m"
@@ -10,11 +10,11 @@ RED="\033[1;31m"
 CYAN="\033[1;36m"
 RESET="\033[0m"
 
-REPO_DIR="$HOME/AdwanceSNI-2.0"
-REPO_URL="https://github.com/rawansni/AdwanceSNI-2.0"
+REPO_DIR="$HOME/ROBINHOOD"
+REPO_URL="https://github.com/rawansni/ROBINHOOD"
 
 echo -e "${BOLD}${CYAN}-------------------------------------------${RESET}"
-echo -e "${BOLD}${GREEN}   AdwanceSNI 2.0.4Installer   ${RESET}"
+echo -e "${BOLD}${GREEN}   RAWAN PAPA COMEBACK (install) ${RESET}"
 echo -e "${BOLD}${CYAN}-------------------------------------------${RESET}"
 echo -e "${BOLD}${YELLOW}[*] Checking System...${RESET}"
 sleep 1

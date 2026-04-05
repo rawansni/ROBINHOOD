@@ -77,9 +77,9 @@ def show_banner():
     banner = f"""
     **************************************************
     *                                                *
-    *            AdwanceSNI - Main Menu              *
-    *                  Version: 2.0.5                *
-    *           Last Updated: 01 Jan 2026            *
+    *            RAWAN - Main Menu              *
+    *                  Version: 9.5                  *    
+    *           Last Updated: 01 Jan 2026         *
     *                                                *
     **************************************************
     """
