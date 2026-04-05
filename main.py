@@ -75,13 +75,13 @@ def get_user_info_banner():
 def show_banner():
     
     banner = f"""
-      ********************************************
-    *                                               *
-  *             RAWAN - Main Menu                     *
-*                 Version: 9.5                          *    
- *           Last Updated: 01 Jan 2026               *
-  *                                                *
-    *********************************************
+           ********************************************
+        *                                               *
+      *             RAWAN - Main Menu                     *
+    *                 Version: 9.5                          *    
+     *           Last Updated: 01 Jan 2026               *
+      *                                                *
+        *********************************************
     """
     color = random.choice(COLORS)
     print(f"{BOLD}{color}{banner}{RESET}")
