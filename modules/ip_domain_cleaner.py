@@ -67,7 +67,7 @@ def process_text(file_location, destination_name):
 
 def main():
     os.system('cls' if os.name == 'nt' else 'clear')
-    print(Fore.CYAN + BOLD + "AdwanceSNI - Extractor" + Style.RESET_ALL)
+    print(Fore.CYAN + BOLD + "ROBINHOOD - Extractor" + Style.RESET_ALL)
     
     path = ask("Input File Path")
     if not os.path.exists(path):

@@ -31,7 +31,7 @@ def print_banner():
         os.system('clear')
         
     print(f"{BLUE}{BOLD}")
-    print("AdwanceSNI - File Splitter")
+    print("ROBINHOOD - File Splitter")
     print(f"{RESET}")
 
 def get_file_path():

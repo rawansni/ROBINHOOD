@@ -74,13 +74,13 @@ def get_user_info_banner():
 def show_banner():
     
     banner = f"""
-    **************************************************
-    *                                                *
-    *            AdwanceSNI - Main Menu              *
-    *                  Version: 2.0.4                *
-    *           Last Updated: 30 Dec 2025            *
-    *                                                *
-    **************************************************
+        ************************************************
+      *                                               *
+    *            ROBINHOOD - Main Menu             *
+  *                  Version: 2.5                        *
+    *         PAPA KA COMEBACK HO GYA HAI      *
+     *                                                *
+       *************************************************
     """
     color = random.choice(COLORS)
     print(f"{BOLD}{color}{banner}{RESET}")

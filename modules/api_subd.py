@@ -33,9 +33,9 @@ def show_banner():
  
     os.system("clear") if os.name == "posix" else os.system("cls")
     banner_lines = [
-        "AdwanceSNI - API Scanner",
-        "v2.0.4",
-        "Updated: 30 Dec 2025"
+        "ROBINHOOD- API Scanner",
+        "V2.5",
+        "COMEBACK HO GYA HE BETA "
     ]
     console.rule("[bold cyan]" + " | ".join(banner_lines))
 
